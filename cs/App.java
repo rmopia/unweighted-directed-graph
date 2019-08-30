@@ -1,7 +1,7 @@
 /*
 contributions via:
-Robert Mopia cssc0856
-Cesar Lopez cssc0830
+Robert Mopia
+Cesar Lopez
  */
 package cs;
 
